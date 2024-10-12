@@ -483,6 +483,18 @@
     [
       "1cc14268-3ddf-43de-8fc4-aa3fdc953b28",
       "Barrel_Jack_PWM"
+    ],
+    [
+      "25046eec-894d-4c1f-90dd-413b7721facb",
+      "POE"
+    ],
+    [
+      "5a0a56ac-e74e-4f82-83ef-b10283bca7a0",
+      "Relay_Out"
+    ],
+    [
+      "a1769b0b-efb6-4dd6-a1a8-a2cb27e19886",
+      "Barrel_Jack_PWM_Minimal"
     ]
   ],
   "text_variables": {}
