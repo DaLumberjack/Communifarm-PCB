@@ -479,6 +479,10 @@
     [
       "c70ca131-9454-4d00-a4ba-56a22d7f5629",
       "Barrel_Jack_Large_Motor"
+    ],
+    [
+      "1cc14268-3ddf-43de-8fc4-aa3fdc953b28",
+      "Barrel_Jack_PWM"
     ]
   ],
   "text_variables": {}
