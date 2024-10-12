@@ -499,6 +499,10 @@
     [
       "629da40a-8f52-4444-aebe-fa5a16c4f342",
       "I2C_POE"
+    ],
+    [
+      "0da931ca-d79b-45e6-b4b2-3e2d81b14b7e",
+      "DS18B20"
     ]
   ],
   "text_variables": {}
