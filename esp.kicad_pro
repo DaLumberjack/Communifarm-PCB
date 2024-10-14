@@ -420,7 +420,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/PCA0_SCL_0"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/PCA0_SDA_0"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
