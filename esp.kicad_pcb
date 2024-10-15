@@ -228,7 +228,7 @@
 
   (footprint "OptoDevice:Finder_34.81" (layer "F.Cu")
     (tstamp 031480da-6fa1-4f66-8f28-ec7c7744f72f)
-    (at 187.96 76.2)
+    (at 194.65 73.66)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -444,7 +444,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" (layer "F.Cu")
     (tstamp 26848221-5b5f-47b6-b8fb-c2581f6d2b09)
-    (at 253.84 30.025)
+    (at 117.2 73.985)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -692,7 +692,7 @@
 
   (footprint "Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Vertical" (layer "F.Cu")
     (tstamp 4fd8a029-67c3-4eff-8fc4-d2d4b80e335f)
-    (at 253.1 60.795)
+    (at 228.6 55.88)
     (descr "https://power.murata.com/data/power/oki-78sr.pdf")
     (tags "78sr3.3 78sr5 78sr9 78sr12 78srXX")
     (property "Sheetfile" "esp.kicad_sch")
@@ -850,7 +850,7 @@
 
   (footprint "RF_Module:ESP32-S2-WROVER" (layer "F.Cu")
     (tstamp 7a946a86-a450-464c-a504-eba02724c912)
-    (at 209.95 39.325)
+    (at 149.86 35.56)
     (descr "ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf")
     (tags "ESP32-S2  ESP32  WIFI")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1020,10 +1020,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 185.95 26.302)
-          (xy 233.95 26.302)
-          (xy 233.95 5.002)
-          (xy 185.95 5.002)
+          (xy 125.86 22.537)
+          (xy 173.86 22.537)
+          (xy 173.86 1.237)
+          (xy 125.86 1.237)
         )
       )
     )
@@ -1036,7 +1036,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" (layer "F.Cu")
     (tstamp 8448b789-fe37-4546-99cc-059a8887ada2)
-    (at 253.84 38.175)
+    (at 117.2 83.82)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1134,7 +1134,7 @@
 
   (footprint "Package_DFN_QFN:Texas_RGE0024C_EP2.1x2.1mm" (layer "F.Cu")
     (tstamp 960b39be-4d67-4caf-8efe-c1108be9c5f0)
-    (at 252.81 45.395)
+    (at 192.4375 32.27)
     (descr "Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas QFN NoLead")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1310,7 +1310,7 @@
 
   (footprint "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm" (layer "F.Cu")
     (tstamp be937a0f-1a67-4361-b798-34d089bc3da8)
-    (at 251.69 67.405)
+    (at 108.17 44.38)
     (descr "LGA-10, http://ams.com/eng/content/download/951091/2269479/471718")
     (tags "lga land grid array")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1398,7 +1398,7 @@
 
   (footprint "Package_DFN_QFN:Texas_RGE0024C_EP2.1x2.1mm" (layer "F.Cu")
     (tstamp c3b569e9-c7b0-44d8-9dba-ba0edb183680)
-    (at 252.81 51.685)
+    (at 192.4375 46.47)
     (descr "Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas QFN NoLead")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1407,7 +1407,7 @@
     (property "ki_keywords" "Low voltage 8-channel I2C switch with reset")
     (path "/2d0d74f2-d84f-41c8-9312-ad7ad357d25a")
     (attr smd)
-    (fp_text reference "U3" (at 0 -3.32) (layer "F.SilkS")
+    (fp_text reference "U3" (at -60.3725 -16.445) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0b016191-045c-4f45-a70e-4ed36ae502b3)
     )
