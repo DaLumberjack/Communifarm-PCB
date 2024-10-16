@@ -502,10 +502,6 @@
       "Relay_Out"
     ],
     [
-      "a1769b0b-efb6-4dd6-a1a8-a2cb27e19886",
-      "Barrel_Jack_PWM_Minimal"
-    ],
-    [
       "629da40a-8f52-4444-aebe-fa5a16c4f342",
       "I2C_POE"
     ],

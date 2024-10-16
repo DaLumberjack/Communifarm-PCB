@@ -1174,21 +1174,4 @@
       )
     )
   )
-
-  (sheet (at 73.66 24.13) (size 203.2 142.24) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid a1769b0b-efb6-4dd6-a1a8-a2cb27e19886)
-    (property "Sheetname" "Barrel_Jack_PWM_Minimal" (at 73.66 23.4184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "Barrel_Jack_PWM_Minimal.kicad_sch" (at 73.66 166.9546 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "esp"
-        (path "/dab6683c-420f-459a-bf9c-0c28b4b081e3/d534b787-d3bc-419e-b481-23d8b9503201" (page "7"))
-      )
-    )
-  )
 )
