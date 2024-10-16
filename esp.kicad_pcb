@@ -674,7 +674,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 031480da-6fa1-4f66-8f28-ec7c7744f72f)
-    (at 128.01 169.0225)
+    (at 229.09 124.685)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1463,7 +1463,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 212858e1-14cd-4b0c-aae8-72f269a79fb9)
-    (at 128.53 172.72)
+    (at 229.61 128.3825)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1605,7 +1605,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 26848221-5b5f-47b6-b8fb-c2581f6d2b09)
-    (at 205.4175 91.705)
+    (at 274.32 149.86)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -2152,7 +2152,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp 32c2e6c9-5950-4207-aa71-fb47c7d2759a)
-    (at 82.55 148.59)
+    (at 137.795 153.565)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "I2C_POE.kicad_sch")
@@ -2336,7 +2336,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp 3517ff17-a020-4464-b742-229b03908f85)
-    (at 82.55 148.59)
+    (at 59.055 125.625)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "I2C_POE.kicad_sch")
@@ -3114,7 +3114,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 4742a627-15a0-4b1e-b918-e96189313659)
-    (at 133.61 160.02)
+    (at 234.69 115.6825)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3273,7 +3273,7 @@
 
   (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 4979ce8e-a9ed-45bd-9ae7-32cbfbd37102)
-    (at 205.4175 91.705)
+    (at 271.78 88.9)
     (descr "TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3837,7 +3837,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp 650130bc-1443-48d6-9c1e-3479c470437e)
-    (at 82.55 148.59)
+    (at 36.195 176.425)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "esp.kicad_sch")
@@ -5271,7 +5271,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 8448b789-fe37-4546-99cc-059a8887ada2)
-    (at 205.4175 91.705)
+    (at 215.9 127)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -5934,7 +5934,7 @@
 
   (footprint "Package_DFN_QFN:Texas_RGE0024C_EP2.1x2.1mm" placed (layer "F.Cu")
     (tstamp 960b39be-4d67-4caf-8efe-c1108be9c5f0)
-    (at 205.4175 91.705)
+    (at 172.195 58.945)
     (descr "Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas QFN NoLead")
     (property "Sheetfile" "esp.kicad_sch")
@@ -6354,7 +6354,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp abc6367d-e12f-47ee-b802-5eb2fbc7794a)
-    (at 82.55 148.59)
+    (at 31.115 176.425)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "esp.kicad_sch")
@@ -7048,7 +7048,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp ba7b040e-8e0c-4420-8fe8-b96190f5ce57)
-    (at 82.55 148.59)
+    (at 36.195 140.865)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "I2C_POE.kicad_sch")
@@ -7418,7 +7418,7 @@
 
   (footprint "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm" placed (layer "F.Cu")
     (tstamp be937a0f-1a67-4361-b798-34d089bc3da8)
-    (at 205.4175 91.705)
+    (at 208.28 91.44)
     (descr "LGA-10, http://ams.com/eng/content/download/951091/2269479/471718")
     (tags "lga land grid array")
     (property "Sheetfile" "esp.kicad_sch")
@@ -7895,7 +7895,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp ceace753-2db4-40eb-9af5-a9a42d79064a)
-    (at 82.55 148.59)
+    (at 26.67 176.425)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "POE.kicad_sch")
@@ -8089,7 +8089,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp d329c7c6-42f4-4ca3-8681-669f0281ab24)
-    (at 82.55 148.59)
+    (at 31.115 176.425)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8195,7 +8195,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp d42de6a1-0bec-4d45-81dd-a7874d8b86f1)
-    (at 82.55 148.59)
+    (at 23.495 176.425)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "DS18B20.kicad_sch")
@@ -8619,7 +8619,7 @@
 
   (footprint "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm" placed (layer "F.Cu")
     (tstamp e020828b-260b-482a-a3ac-cae86a833f9a)
-    (at 124.03 137.795)
+    (at 103.71 135.255)
     (descr "SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "I2C_POE.kicad_sch")
@@ -8733,7 +8733,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp e4d2e768-1f57-4ed4-980d-0fd79567a59f)
-    (at 82.55 148.59)
+    (at 130.175 184.045)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "DS18B20.kicad_sch")
@@ -9543,7 +9543,7 @@
 
   (footprint "Connector_RJ:RJ45_HALO_HFJ11-x2450HRL_Horizontal" placed (layer "F.Cu")
     (tstamp fa837bf4-0c3e-4670-9baf-582809b98879)
-    (at 82.55 148.59)
+    (at 127.635 140.865)
     (descr "Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")
     (property "Sheetfile" "I2C_POE.kicad_sch")
