@@ -590,7 +590,7 @@
 
   (footprint "Relay_THT:Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT" placed (layer "F.Cu")
     (tstamp 004e8f60-7af7-4539-b2c9-bf9b9aa76616)
-    (at 67.4625 83.5725)
+    (at 54.7625 78.4925)
     (descr "Panasonic Relay SPST 10mm 24mm, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf")
     (tags "Panasonic Relay SPST")
     (property "Sheetfile" "Relay_Out.kicad_sch")
@@ -674,7 +674,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 031480da-6fa1-4f66-8f28-ec7c7744f72f)
-    (at 229.09 124.685)
+    (at 196.59 156.3225)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -829,7 +829,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 053d3461-2f15-4dab-81c7-b9fbf5fd255f)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1003,7 +1003,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp 13ee0e6f-8af2-4fe1-b252-d0dc52e70de5)
-    (at 247.65 86.36)
+    (at 245.11 76.2)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -1145,7 +1145,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp 14189d31-1f24-49c4-af5a-f51aca4b1289)
-    (at 242.575 99.805)
+    (at 245.11 124.46)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1287,7 +1287,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 15964335-f045-4913-bdd5-3eb394b81ea8)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1375,7 +1375,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 200dcad2-e6d6-4847-a674-428f0ba08c42)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1463,7 +1463,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 212858e1-14cd-4b0c-aae8-72f269a79fb9)
-    (at 229.61 128.3825)
+    (at 201.67 163.9425)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -1702,7 +1702,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp 27ad0dd1-1b58-44cb-9964-a2f0cffec660)
-    (at 240.03 71.12)
+    (at 247.65 48.26)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -1942,7 +1942,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 2ff43e25-6287-43f0-9409-9cf83587d126)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -2030,7 +2030,7 @@
 
   (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 319d540d-1a1a-46c0-acf0-b3a03d48dd39)
-    (at 208.28 63.5)
+    (at 231.14 53.34)
     (descr "TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -2526,7 +2526,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 3b02fdf7-f635-4b82-b114-002fee49c17d)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -2614,7 +2614,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 3be3c89d-80ed-4b8b-96bd-302e75315ffb)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -2702,7 +2702,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 3e911bde-1edf-480d-99ed-c5597db99abc)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -2874,7 +2874,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp 461b39f6-225d-4872-8829-87890e70921e)
-    (at 223.52 99.06)
+    (at 255.27 60.96)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -3016,7 +3016,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 4694d5d4-2a67-4c09-8a3f-67c8da1b6fe3)
-    (at 201.02 73.985)
+    (at 218.44 93.98)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3114,7 +3114,7 @@
 
   (footprint "OptoDevice:Finder_34.81" placed (layer "F.Cu")
     (tstamp 4742a627-15a0-4b1e-b918-e96189313659)
-    (at 234.69 115.6825)
+    (at 202.27 144.78)
     (descr "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
     (tags "Relay SPST Finder")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3185,7 +3185,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 47892828-c967-4cdb-8012-82fc9a6937f3)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3273,7 +3273,7 @@
 
   (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 4979ce8e-a9ed-45bd-9ae7-32cbfbd37102)
-    (at 271.78 88.9)
+    (at 220.6575 111.435)
     (descr "TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3395,7 +3395,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 4be94ccb-2886-4359-a12f-df9556e0eb9c)
-    (at 185.42 116.84)
+    (at 223.16 132.08)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3651,7 +3651,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 59bd1fa5-db04-41d6-b554-de5cd832e734)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -3943,7 +3943,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 65a7d0d6-3d42-4e36-a3ea-59d1ddd8c0d0)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -4115,7 +4115,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 6ce61a0e-a8bd-4f17-81f5-b60cd3c959d9)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -4345,7 +4345,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 6e2e69fb-630c-4548-9c2b-07c9f2b78a23)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -4433,7 +4433,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 6f454cf5-a221-44b1-b9c8-d436e45dbf29)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -4643,7 +4643,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 7227e730-6d80-43fb-856f-baa3239e9b65)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -4731,7 +4731,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 7834ca2f-563f-4a98-a814-d5fc37536404)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -5005,7 +5005,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 7c64045b-5641-4d84-a81f-2b339f34d8be)
-    (at 195.94 99.385)
+    (at 231.14 71.12)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -5271,7 +5271,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp 8448b789-fe37-4546-99cc-059a8887ada2)
-    (at 215.9 127)
+    (at 198.12 129.54)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "esp.kicad_sch")
@@ -5430,7 +5430,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 888a9126-ed9e-44e8-bc2b-f72622356eef)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -5616,7 +5616,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 9272f3b0-5aa3-413d-9dc2-feb651939a75)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -5704,7 +5704,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp 956a0393-387e-4598-832d-37e3d0cb04ce)
-    (at 240.03 55.88)
+    (at 250.19 35.56)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -5846,7 +5846,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 95aaa86b-142f-421a-ab8c-74b0ca0bcc1e)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -6050,7 +6050,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp 9c18cc8c-46e2-4173-a747-ab1c97f26c9b)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -6206,7 +6206,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp a8035160-055b-4800-bf2e-e536b012a92b)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -6602,7 +6602,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp ae0439ab-95c8-4898-a4d1-bb305f505ceb)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -6690,7 +6690,7 @@
 
   (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" placed (layer "F.Cu")
     (tstamp ae30f947-8d82-4521-9134-8b2ccffef524)
-    (at 208.28 116.84)
+    (at 218.44 38.1)
     (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
     (tags "SSOP 0.65")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -6872,7 +6872,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp b14288b2-4006-4b53-93ae-a266b228cfca)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -6960,7 +6960,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp b7ddca69-f4e4-4c51-b7b0-bab01c0e10a9)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -7154,7 +7154,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp bb7a8c9a-d0e2-4d0a-8d90-939abf1c83fa)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -7242,7 +7242,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp bc91345b-496b-48d8-b47c-cc8b83703715)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -7330,7 +7330,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp be418849-321f-4afe-a945-3ef8c584dd5a)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -7418,7 +7418,7 @@
 
   (footprint "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm" placed (layer "F.Cu")
     (tstamp be937a0f-1a67-4361-b798-34d089bc3da8)
-    (at 208.28 91.44)
+    (at 205.74 88.9)
     (descr "LGA-10, http://ams.com/eng/content/download/951091/2269479/471718")
     (tags "lga land grid array")
     (property "Sheetfile" "esp.kicad_sch")
@@ -7719,7 +7719,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp cbe10038-2d0b-4c6c-a2e4-f967decc764c)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -7807,7 +7807,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp ccdbbefd-5196-46ac-b682-0c99ff5076e1)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "Barrel_Jack_Large_Motor.kicad_sch")
@@ -8001,7 +8001,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp cfc57e26-255a-4b9a-968f-67ebdfd2693b)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8301,7 +8301,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" placed (layer "F.Cu")
     (tstamp d66111d9-eb12-423b-8afd-5d1c902d6825)
-    (at 252.73 99.06)
+    (at 247.65 139.7)
     (descr "TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Vertical RM 1.27mm staggered type-1")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8443,7 +8443,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp db415ba2-ce0b-49ff-9928-e88d75d4f2e1)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8531,7 +8531,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp dd2b6c94-9855-4fea-a670-690cb475b0cf)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8839,7 +8839,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp e609148d-1ee2-4fb5-b417-967ac7dd48d3)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -8927,7 +8927,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp e6dfa6c8-9125-4f8d-92b7-d52c14ae5154)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9015,7 +9015,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp e874bad0-0886-4d08-8143-ee8f05180dbe)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9103,7 +9103,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp e92a6f78-df5c-4194-9a33-770c72ea6b0b)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9191,7 +9191,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp ea3b2b9f-2fcd-43e2-9533-29caccf3b9e4)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9279,7 +9279,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp f2d95bbb-e035-4fac-88df-a55996cc07ee)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9367,7 +9367,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp f718848b-d942-4c29-a109-59dfef5a74e7)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9455,7 +9455,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp f8ce43ce-1bfa-43b0-bb60-ab5fa28f46f2)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
@@ -9649,7 +9649,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" placed (layer "F.Cu")
     (tstamp fe633bc0-524c-4b2c-9348-82781f423ba8)
-    (at 256.54 160.02)
+    (at 271.78 88.9)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "esp.kicad_sch")
